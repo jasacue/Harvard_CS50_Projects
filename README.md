@@ -1,3 +1,2 @@
-# le_epic
-stuff for epic campus
-includes hello world and solutions to a few CS50 problems
+# EPIC Campus Projects
+This repository includes a few soloutions to some of the Havard CS50 problems I found engaging, and created while I was at EPIC campus.
